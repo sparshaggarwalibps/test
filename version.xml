@@ -1,0 +1,11 @@
+<!--Label Information for prouct Build-->
+<patch-label-properties>
+	<product_name>OmniDocs11</product_name>
+	<ServicePack>SP1</ServicePack>
+	<Patch>00</Patch>
+	<Hotfix>OmniDocs_11.0_SP1_00_014</Hotfix>
+	<date_of_build>03-05-2023</date_of_build>
+	<build_person>Utkarsh Bhuwnesh</build_person>
+	<label>OmniDocs11.0Patch2</label>
+</patch-label-properties>
+
